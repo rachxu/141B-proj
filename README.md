@@ -2,7 +2,7 @@
 #### _Author: Qiushuang/Rachel Xu_
 
 
-**Motivation**: The COVID-19 pandemic brought numerous multi-faceted chanllenges to the world. In an attempt to evaluate the current situation of California around two years after the onset of the pandemic, this project was carried out with the hope to shed some light on the question.
+**Motivation**: The COVID-19 pandemic brought numerous multi-faceted challenges to the world. In an attempt to evaluate the current situation of California around two years after the onset of the pandemic, this project was carried out with the hope to shed some light on the question.
 
 **Data**: The datasets used in the project were gathered from various sources (CDC, California Data Portal, etc). Some were directed downloaded while others were obtained through API requests. Links to these data and more details can be found under /data directory. 
 
